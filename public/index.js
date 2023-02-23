@@ -67,8 +67,8 @@ function handleSelect(e) {
         var fieldTitles = [
           "Day of the week",
           "Date",
-          "Max Temprature",
-          "Min Temprature",
+          "Max Temperature",
+          "Min Temperature",
           "Weather Code",
           "Wind speed and direction",
         ];
